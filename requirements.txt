@@ -1,1 +1,2 @@
-pip install tk
+import tkinter
+tkinter.TkVersion==8.6
