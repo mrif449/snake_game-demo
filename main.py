@@ -3,8 +3,8 @@ import random
 from turtle import speed
 
 #taking measurement
-height = 700
-witdth = 700
+height = 900
+witdth = 900
 start_size = 3
 move_speed = 90
 spacing = 50
